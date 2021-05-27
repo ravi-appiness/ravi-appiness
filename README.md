@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ravi Kiran J
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning and working as a Fullstack developer [MERN]
-- 💞️ I’m looking to collaborate on Appiness
+- 🌱 I’m currently learning and working as a Fullstack developer [MERN] in Appiness Interactive Pvt Ltd
+- 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me ravikiran@appinessworld.com
 
 <!---
